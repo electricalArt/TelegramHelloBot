@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj": {}
+    "C:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj": {}
   },
   "projects": {
-    "c:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj": {
+    "C:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj",
+        "projectUniqueName": "C:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj",
         "projectName": "Test124_HelloBot",
-        "projectPath": "c:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj",
+        "projectPath": "C:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\Test124_HelloBot.csproj",
         "packagesPath": "C:\\Users\\musli\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\obj\\",
+        "outputPath": "C:\\Users\\musli\\ArtHome\\Projects\\TelegramBots\\Test124_HelloBot\\Test124_HelloBot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\musli\\AppData\\Roaming\\NuGet\\NuGet.Config"
